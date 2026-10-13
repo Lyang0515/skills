@@ -1,0 +1,4 @@
+interface:
+  display_name: "千岛湖 Qt 工程结构"
+  short_description: "维护 QTAcoustic 的 Qt/CMake 项目结构"
+  default_prompt: "使用 $qiandaohu-qt-project-structure 梳理并重构当前 Qt/CMake 工程结构。"

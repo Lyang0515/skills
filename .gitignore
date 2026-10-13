@@ -1,0 +1,54 @@
+# ===== OS =====
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ===== 编辑器 / IDE =====
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.code-workspace
+.vs/
+
+# ===== 临时文件 / 归档 =====
+*.tmp
+*.temp
+*.bak
+*.orig
+*.log
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# ===== Node =====
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# ===== 本地同步脚本 / 临时脚本（不纳入版本管理）=====
+.probe*.py
+.pull_skills.py
+.skills_remote.tar.gz
+
+# ===== 本地环境覆盖 =====
+.env
+.env.local
+*.local
